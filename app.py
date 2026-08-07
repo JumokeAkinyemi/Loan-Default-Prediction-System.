@@ -165,7 +165,7 @@ if st.button("🔍 Predict Loan Risk"):
         'Age', 'Income', 'LoanAmount', 'CreditScore', 'MonthsEmployed',
         'NumCreditLines', 'InterestRate', 'LoanTerm', 'DTIRatio',
         'Education_High School', "Education_Master's", 'Education_PhD',
-        'EmploymentType_Part-time', 'EmploymentType_Self-employed', 'EmploymentType_Un',
+        'EmploymentType_Part-time', 'EmploymentType_Self-employed',
         'EmploymentType_Unemployed', 'MaritalStatus_Married', 'MaritalStatus_Single',
         'HasMortgage_Yes', 'HasDependents_Yes', 'LoanPurpose_Business',
         'LoanPurpose_Education', 'LoanPurpose_Home', 'LoanPurpose_Other',
